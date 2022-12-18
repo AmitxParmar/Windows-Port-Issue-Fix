@@ -8,8 +8,8 @@
 ``netstat -ano | findstr :3000
 tskill typeyourPIDhere`` 
 
-> But that doesn't seem to be Working, the .bat file saved me.
+> But that doesn't seem to be Working, the .bat File Saved me.
 
 
-## ``How to run the .bat file``
-> Just Download the file and Run as administrator and the problem should be solved.
+### How to run the .bat file
+> Just Download the file and Run as Administrator and the Problem should be Solved.
