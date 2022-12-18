@@ -8,7 +8,7 @@
 ``netstat -ano | findstr :3000
 tskill typeyourPIDhere`` 
 
-> but that doesn't seem to be Working.
+> But that doesn't seem to be Working, the .bat file saved me.
 
 
 ## ``How to run the .bat file``
